@@ -10,5 +10,6 @@ Resumo das aulas da Dio sobre Git e GitHub.
 
 [GitHub](https://docs.github.com/pt)
 
-testando o commit changes no github
+- testando o commit changes no github
+- testando o commit no editor visual studio online no gitHub
 
